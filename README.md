@@ -1,4 +1,4 @@
-# DSA210_project
+# The Impact of Stress on Song-Skipping Habits: A Data Analysis Project
 This project explores the relationship between stress and the tendency to skip songs using Spotify data.
 
 My objectives are to investigate whether stressful periods lead to increased song skipping and analyze and visualize patterns in total listening time and song
